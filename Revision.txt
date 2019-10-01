@@ -9,9 +9,9 @@ CSS Grid (https://www.achrafkassioui.com/blog/inline-block-to-css-grid/)
 
 
 Segment Tree:
-Tushar Roy
-Gaurav Sen
-Code NCode 
+(youtube)Tushar Roy
+(youtube)Gaurav Sen
+(youtube)Code NCode 
 
 
 
