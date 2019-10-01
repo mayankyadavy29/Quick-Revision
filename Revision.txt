@@ -1,0 +1,17 @@
+CSS :
+background properties (shorthand - background)
+border properties (shorthand - border)
+padding props (shorthand - padding)
+margin props (shorthand - margin)
+Centering a div tag - (https://www.freecodecamp.org/news/how-to-center-things-with-style-in-css-dc87b7542689/)
+Difference between padding v/s margin (first comes margin then border then div and inside it padding)
+CSS Grid (https://www.achrafkassioui.com/blog/inline-block-to-css-grid/)
+
+
+Segment Tree:
+Tushar Roy
+Gaurav Sen
+Code NCode 
+
+
+
